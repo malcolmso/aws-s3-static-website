@@ -7,7 +7,7 @@ Steps
 
 1. Clone the Repository
 Download the index.html and error.html files from the repository:
-aws-s3-static-website
+[aws-s3-static-website](https://github.com/malcolmso/aws-s3-static-website)
 
 3. Create an S3 Bucket
 Log in to your AWS Management Console and create a new S3 bucket.
